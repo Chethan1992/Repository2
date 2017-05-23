@@ -13,7 +13,9 @@ import java.util.Collection;
  * @author admin
  */
 public class revarray {
+
      public static void main(String[] args) {
+
 
  String str="MY name is chethan";
  //String reverse=new StringBuilder(str).reverse().toString();
